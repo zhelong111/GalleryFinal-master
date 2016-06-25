@@ -33,7 +33,6 @@ public class IApplication extends Application {
 //        ThemeConfig theme = ThemeConfig.CYAN
 //        ThemeConfig theme = new ThemeConfig.Builder()
 //                .build();
-//        //配置功能
 //        FunctionConfig functionConfig = new FunctionConfig.Builder()
 //                .setEnableCamera(true)
 //                .setEnableEdit(true)
